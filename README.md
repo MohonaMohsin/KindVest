@@ -1,1 +1,1 @@
-# KindVest: Donation and Volunteer Management System
+# KindVest: Donation and Volunteer Management System.
