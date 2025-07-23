@@ -11,4 +11,4 @@ KindVest is a web platform to manage donations and volunteers. It connects donor
 - Donor Dashboard (donate, view history)
 - Volunteer Dashboard (task updates, availability)
 - Admin Panel (manage users, campaigns)
-- Secure transactions & real-time updates
+- Real-time updates
