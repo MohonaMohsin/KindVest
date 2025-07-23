@@ -1,6 +1,6 @@
 # KindVest: Donation and Volunteer System
 
-KindVest is a full-stack web platform to manage donations and volunteers. It connects donors, volunteers, and admins with a secure and transparent system.
+KindVest is a web platform to manage donations and volunteers. It connects donors, volunteers, and admins with a secure and transparent system.
 
 ## Tech Stack
 - Frontend: React.js, Tailwind CSS, HTML, JavaScript
